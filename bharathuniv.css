@@ -188,9 +188,10 @@ div.register{
     margin: 12px;
 
 }
-/* @media screen and (max-width:1500px){
-    body{
-        display:none;
+@media screen and (max-width:900px){
+    .body{
+        padding: 80px 10px 80px 10px;
+        
     }
 }
- */
+
