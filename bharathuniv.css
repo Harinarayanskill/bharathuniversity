@@ -188,7 +188,7 @@ div.register{
     margin: 12px;
 
 }
-@media screen and (max-width: 1200px){
+@media screen and (max-width:1500px){
     body{
         display:none;
     }
