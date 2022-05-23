@@ -188,8 +188,4 @@ div.register{
     margin: 12px;
 
 }
-@media only screen and (max-width: 600px) {
-  body {
-    background-color: lightblue;
-  }
-}
+
