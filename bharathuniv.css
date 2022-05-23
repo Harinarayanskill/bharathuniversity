@@ -1,3 +1,4 @@
+@media screen and (max-width: 700px){
 *{
     margin: 0;
     padding: 0;
@@ -88,11 +89,9 @@ top: 10px; right: 5px;
     transition: 1s;
 }
 @media screen and (max-width: 700px){
-    *{
-    margin: 0;
-    padding: 0;
+    
 
-}
+
     
 
 
@@ -188,4 +187,5 @@ div.register{
     border: 2px solid red;
     margin: 12px;
 
+}
 }
