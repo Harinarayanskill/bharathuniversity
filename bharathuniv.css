@@ -1,4 +1,4 @@
-@media screen and (max-width: 700px){
+
 *{
     margin: 0;
     padding: 0;
@@ -188,4 +188,8 @@ div.register{
     margin: 12px;
 
 }
+@media screen and (max-width: 700px){
+    body{
+        display:none;
+    }
 }
