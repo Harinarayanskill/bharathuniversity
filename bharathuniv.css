@@ -188,10 +188,8 @@ div.register{
     margin: 12px;
 
 }
-@media screen and (max-width:900px){
-    .body{
-        padding: 80px 10px 80px 10px;
-        
-    }
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
 }
-
