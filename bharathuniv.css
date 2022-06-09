@@ -52,6 +52,7 @@ top: 10px; right: 5px;
 }
 .nav-link ul li:hover::after{
     width: 100%;
+    color:black;
 }
 .text-box{
     width: 90%;
@@ -190,4 +191,4 @@ div.register{
 }
 
 ul a:hover{
-    color:green;
+    color:red;
